@@ -1,0 +1,70 @@
+{
+    "labels": [
+        {
+            "label_id": "vtwd-1",
+            "is_included_in_hunt": false,
+            "label_str": "INVASIVE SPECIES",
+            "label_hints": [
+                "Find an exhibit discussing the effects of invasive species on ecosystems.",
+                "This display focuses on how non-native species disrupt local biodiversity.",
+                "Look for examples of species that have spread into new environments, outcompeting native organisms."
+            ],
+            "related_knowledge": "Invasive species are non-native organisms that spread into new environments, often causing harm to local ecosystems. These species can outcompete native organisms, leading to reduced biodiversity and significant ecological impacts."
+        },
+        {
+            "label_id": "vtwd-2",
+            "is_included_in_hunt": false,
+            "label_str": "HIGH PLAINS",
+            "label_hints": [
+                "Find an exhibit about the High Plains region, a flat, elevated area in Texas.",
+                "This display focuses on the unique geography and ecosystems of the High Plains.",
+                "Look for details about the plants and animals that live in this region."
+            ],
+            "related_knowledge": "The High Plains, part of the Great Plains, are a flat, elevated region in Texas known for their dry, grassy landscape. This ecosystem supports a range of wildlife and plays a significant role in Texas's agricultural industry."
+        },
+        {
+            "label_id": "vtwd-3",
+            "is_included_in_hunt": false,
+            "label_str": "GUADALUPE MOUNTAINS",
+            "label_hints": [
+                "Look for an exhibit about the Guadalupe Mountains, a rugged mountain range in West Texas.",
+                "This display focuses on the geological and ecological significance of the Guadalupe Mountains.",
+                "Find information about the flora and fauna of this mountainous region."
+            ],
+            "related_knowledge": "The Guadalupe Mountains are a rugged range in West Texas, known for their striking geological features and diverse ecosystems. The region is home to a variety of plants and animals, some of which are unique to this environment."
+        },
+        {
+            "label_id": "vtwd-4",
+            "is_included_in_hunt": false,
+            "label_str": "PINEY WOODS",
+            "label_hints": [
+                "Look for an exhibit about the Piney Woods, a forested region in East Texas.",
+                "This display focuses on the dense, pine-filled forests and the ecosystems they support.",
+                "Find information about the wildlife and plant species that thrive in this region."
+            ],
+            "related_knowledge": "The Piney Woods are a dense forest region in East Texas, characterized by its towering pine trees and rich biodiversity. The ecosystem supports a variety of wildlife, including birds, mammals, and reptiles, as well as a wide range of plant species."
+        },
+        {
+            "label_id": "vtwd-5",
+            "is_included_in_hunt": false,
+            "label_str": "RIO GRANDE DRY FOREST",
+            "label_hints": [
+                "Look for an exhibit about the Rio Grande Dry Forest, a unique ecosystem in Texas.",
+                "This display discusses the dry forests along the Rio Grande and the species that live there.",
+                "Find information about how the Rio Grande supports life in this arid region."
+            ],
+            "related_knowledge": "The Rio Grande Dry Forest is a unique ecosystem found along the Rio Grande in Texas. This dry forest is home to a variety of plant and animal species adapted to the arid conditions, and the river provides a vital source of water for the region's biodiversity."
+        },
+        {
+            "label_id": "vtwd-6",
+            "is_included_in_hunt": false,
+            "label_str": "COASTAL OAK MOTTE",
+            "label_hints": [
+                "Look for an exhibit about the Coastal Oak Motte, a unique ecosystem in Texas.",
+                "This display focuses on the oak-dominated coastal forests and the wildlife they support.",
+                "Find information about the plants and animals that thrive in this coastal environment."
+            ],
+            "related_knowledge": "The Coastal Oak Motte is a unique ecosystem found along the Texas coast, characterized by oak-dominated forests. This ecosystem supports a variety of wildlife, including birds and mammals, and plays a crucial role in maintaining coastal biodiversity."
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Saymuse Home</title>
+        <link rel="stylesheet" href="css/styles.css">
+        <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;700&display=swap" rel="stylesheet">
+        <script src="js/frontend.js" type="module" defer></script>
+    </head>
+    <body>
+        <!-- Expandable banner section -->
+        <header class="banner" id="banner">
+            <div class="banner-content">
+                <h1>Welcome to <span class="highlight">Saymuse</span></h1>
+                <h2>Capture Exhibition Labels, Unlock Hidden Treasures!</h2>
+                <div class="stepper-container">
+                    <div class="step">
+                        <div class="icon">
+                            <img src="assets/images/home/select-museum-icon.png" alt="Select Museum">
+                        </div>
+                        <h3>Select Museum</h3>
+                        <p>Pick your favorite museum to explore</p>
+                    </div>
+                    <div class="step">
+                        <div class="icon">
+                            <img src="assets/images/home/generate-list-icon.png" alt="Generate List">
+                        </div>
+                        <h3>Generate List</h3>
+                        <p>Create a treasure hunt list tailored to your museum</p>
+                    </div>
+                    <div class="step">
+                        <div class="icon">
+                            <img src="assets/images/home/start-hunt-icon.png" alt="Start Hunt">
+                        </div>
+                        <h3>Start Hunt</h3>
+                        <p>Complete your hunt by taking label photos!</p>
+                    </div>
+                </div>
+            </div>
+            <button class="try-now-button" onclick="window.location.href='treasure-hunt.html'">
+                Try Now
+</button>
+        </header>
+        <!-- Main content sections with alternating layout -->
+        <main class="content">
+            <!-- First row: Free and Fun Challenges -->
+            <section class="row alternate-left">
+                <div class="image-box">
+                    <img src="assets/images/home/free-fun-discovery.jpg" alt="Free Fun Discovery">
+                </div>
+                <div class="text-box">
+                    <h2>Free. Fun. Discovery.</h2>
+                    <p>Enjoy exciting treasure hunts without spending a dime! Explore new challenges at every turn and keep coming back for more adventures.</p>
+                </div>
+            </section>
+            <!-- Second row: Backed by Science -->
+            <section class="row alternate-right">
+                <div class="image-box">
+                    <img src="assets/images/home/backed-by-science.jpg" alt="Backed by Science">
+                </div>
+                <div class="text-box">
+                    <h2>Backed by Science</h2>
+                    <p>Studies show that learning through play enhances memory and understanding. Our gamified challenges make education enjoyable and effective for all ages!</p>
+                </div>
+            </section>
+            <!-- Third row: Join as Individual or Group -->
+            <section class="row alternate-left">
+                <div class="image-box">
+                    <img src="assets/images/home/solo-or-a-team.jpg" alt="Solo or A Team">
+                </div>
+                <div class="text-box">
+                    <h2>Solo (and/or) Team</h2>
+                    <p>Whether you're exploring alone, with friends, or as a family, Saymuse has something for everyone. Start your adventure today!</p>
+                </div>
+            </section>
+        </main>
+        <!-- Footer with links -->
+        <footer>
+            <div class="footer-links">Contact Us</a><a href="mailto:hello@saymuse.com">hello@saymuse.com
+        </footer>
+    </body>
+</html>

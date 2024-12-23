@@ -1,0 +1,251 @@
+/* Root Variables for Color Palette */
+:root {
+    --primary-color: #1CB0F6;
+    --secondary-color: #FF9900;
+    --accent-color: #C4A8E3;
+    --neutral-color: #F4F2ED;
+    --highlight-color: #8BC34A;
+    --dark-accent: #2D2D2D;
+    --correct-answer-color: #28a745; /* Green for correct answer */
+}
+
+/* Basic reset and styling */
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: 'Fredoka';
+    background-color: var(--neutral-color);
+}
+
+h1 {
+    color: var(--primary-color);
+    text-align: center;
+    font-size: 36px;
+    margin-top: 20px;
+}
+
+/* Treasure List Grid Layout */
+#treasureList {
+    list-style-type: none;
+    padding: 0;
+    max-width: 800px;
+    margin: 20px auto;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* 2 columns */
+    grid-gap: 20px; /* Space between grid items */
+}
+
+/* Pin the checkmark icon on top of the container */
+.checkmark-icon {
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    width: 36px;
+    height: 36px;
+    background-color: var(--neutral-color);
+    border-radius: 50%;
+    padding: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    pointer-events: none;
+}
+
+/* Ensure the problem container is positioned relative to allow the absolute icon positioning */
+#treasureList li {
+    position: relative;
+    background-color: var(--neutral-color);
+    border: 2px solid var(--accent-color);
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    transition: border-color 0.3s ease;
+}
+
+.treasure-checkbox {
+    margin-bottom: 10px;
+    transform: scale(1.2);
+    accent-color: var(--primary-color);
+}
+
+/* General button styling (consolidated) */
+.custom-file-button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: var(--secondary-color);
+    color: var(--neutral-color); /* White text */
+    border-radius: 10px;
+    font-size: 16px;
+    text-align: center;
+    cursor: pointer;
+    transition: background-color; 
+    font-family: 'Fredoka';
+    width: fit-content; /* Limit width based on content */
+}
+
+#result {
+    margin: 20px auto;
+    padding: 15px;
+    max-width: 800px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 16px;
+    color: var(--dark-accent);
+    background: none;
+    box-shadow: none;
+    display: none;
+}
+
+#cameraSection {
+    margin-top: 20px;
+    text-align: center;
+}
+
+#video {
+    width: 100%;
+    max-width: 800px;
+    border: 2px solid var(--accent-color);
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+/* Hidden class to hide elements initially */
+.hidden {
+    display: none;
+}
+
+/* Modal */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.modal-content {
+    background-color: var(--neutral-color);
+    margin: 15% auto;
+    padding: 20px;
+    width: 80%;
+    text-align: center;
+}
+
+#restartButton {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: var(--correct-answer-color);
+    color: var(--neutral-color);
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#restartButton:hover {
+    background-color: #218838;
+}
+
+.badge-image {
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: 20px auto;
+    border-radius: 15px;
+}
+
+/* Correct answer border */
+.answered {
+    border-color: var(--correct-answer-color) !important;
+}
+
+@media (max-width: 768px) {
+    #treasureList {
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 15px; /* Slightly reduce gap for smaller screens */
+        padding: 20px; /* Ensure padding is increased for mobile */
+    }
+
+    .custom-file-button {
+        width: 80%; /* Adjust the button width for mobile */
+    }
+
+    #video {
+        width: 100%;
+    }
+}
+
+/* Container for the selected museum */
+#selectedMuseumContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    background-color: var(--neutral-color);
+    border-radius: 10px;
+    margin: 20px 0;
+}
+
+/* Text for selecting or displaying a museum */
+#selectedMuseumName {
+    font-size: 24px;
+    color: var(--primary-color);
+    margin-bottom: 10px;
+}
+
+#selectedMuseumName .highlighted-text {
+    color: var(--secondary-color); /* Color for the museum name */
+    font-weight: bold;
+}
+
+#selectedMuseumName::before {
+    color: var(--primary-color); /* Color for the "You have selected:" text */
+    display: block;
+}
+
+/* Horizontal carousel styling */
+.carousel {
+    display: flex;
+    overflow-x: auto;
+    white-space: nowrap;
+    scroll-behavior: smooth;
+}
+
+.carousel::-webkit-scrollbar {
+    display: none; /* Hide scrollbar */
+}
+
+.carousel div {
+    display: inline-block;
+    background-color: var(--accent-color); /* Use accent color for carousel items */
+    color: var(--dark-accent); /* Dark accent for carousel text */
+    padding: 10px;
+    margin: 0 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: transform 0.2s;
+}
+
+.carousel div:hover {
+    transform: scale(1.05);
+}
+
+.custom-file-button:hover {
+    background-color: var(--highlight-color);
+}
+
+/* Compliment text styling */
+.compliment-text {
+    font-family: 'Fredoka', Arial, sans-serif;
+    color: var(--primary-color);
+    font-weight: normal; /* Ensure it's not bold */
+}

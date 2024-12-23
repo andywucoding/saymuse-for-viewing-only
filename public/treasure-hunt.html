@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Saymuse Treasure Hunt</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/treasure-hunt.css">
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;700&display=swap" rel="stylesheet">
+    <script src="js/treasure-hunt.js" type="module" defer></script>
+</head>
+<body>
+    <h1>Saymuse Treasure Hunt</h1>
+
+    <!-- Rules/Steps section -->
+    <div id="rulesContainer" class="card" style="background-color: #f9f9f9; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
+        <h2>How to Play</h2>
+        <ol style="font-size: 18px; line-height: 1.6;">
+            <li><strong>Select a museum</strong> from the list below.</li>
+            <li><strong>Generate your treasure hunt list</strong> by clicking "Create Treasure Hunt List".</li>
+            <li><strong>Find the exhibits</strong> on your list and <strong>take a photo of their label</strong> to complete the hunt.</li>
+        </ol>
+    </div>
+
+    <!-- Container for museum selection and selected museum info -->
+    <div id="selectedMuseumContainer" class="card">
+        <div id="selectedMuseumName" class="museum-name">Select a museum</div>
+        <div id="museumCarouselContainer" class="carousel"></div>
+        <button id="changeMuseumButton" class="custom-file-button" style="display: none;">
+            Change Museum
+        </button>
+    </div>
+
+    <!-- Button to create or regenerate treasure hunt list, initially hidden -->
+    <button id="createListButton" class="custom-file-button" style="display: none;">
+        Create Treasure Hunt List
+    </button>
+
+    <ul id="treasureList"></ul>
+
+    <!-- Custom-styled label to act as the file upload button, initially hidden -->
+    <label for="imageUpload" class="custom-file-button" id="customUploadLabel" style="display: none;">
+        Choose File or Take Photo
+    </label>
+    <input type="file" id="imageUpload" accept="image/*" style="opacity: 0; position: absolute; z-index: -1;">
+
+    <div id="result" class="card"></div>
+
+    <!-- Button to return to homepage -->
+    <button id="backToHomeButton" class="custom-file-button">
+        Back to Home
+    </button>
+
+    <!-- Feedback button -->
+    <button id="feedbackButton" class="custom-file-button">
+        Provide Feedback
+    </button>
+
+    <!-- Badge Modal for showing congratulations when all treasures are found -->
+    <div id="badgeModal" class="modal" style="display: none;">
+        <div class="modal-content" id="badgeContent"></div>
+    </div>
+
+    <!-- Feedback Modal -->
+    <div id="feedbackModal" class="modal" style="display: none;">
+        <div class="modal-content">
+            <h2>Feedback</h2>
+
+            <!-- Container for feedback textarea -->
+            <div id="feedbackTextContainer" class="card">
+                <textarea id="feedbackText" rows="4" placeholder="Please provide your feedback here"></textarea>
+            </div>
+
+            <!-- Separate container for contact info and "May we contact you?" -->
+            <div id="contactInfoContainer" class="card">
+                <label for="contactInfo">Your Contact Info (optional):</label>
+                <input type="text" id="contactInfo" placeholder="Enter your phone or email">
+
+                <div>
+                    <input type="checkbox" id="mayContact" />
+                    <label for="mayContact">May we contact you?</label>
+                </div>
+            </div>
+
+            <button id="submitFeedbackButton" class="custom-file-button">Submit</button>
+            <button id="closeFeedbackButton" class="custom-file-button">Close</button>
+        </div>
+    </div>
+
+    <script>
+        // Show feedback modal
+        const feedbackButton = document.getElementById('feedbackButton');
+        const feedbackModal = document.getElementById('feedbackModal');
+        const closeFeedbackButton = document.getElementById('closeFeedbackButton');
+        const submitFeedbackButton = document.getElementById('submitFeedbackButton');
+    
+        feedbackButton.addEventListener('click', () => {
+            feedbackModal.style.display = 'block';
+        });
+    
+        closeFeedbackButton.addEventListener('click', () => {
+            feedbackModal.style.display = 'none';
+        });
+    
+        submitFeedbackButton.addEventListener('click', async () => {
+            const feedbackText = document.getElementById('feedbackText').value;
+            const contactInfo = document.getElementById('contactInfo').value;
+            const mayContact = document.getElementById('mayContact').checked;
+    
+            if (feedbackText) {
+                // Send the feedback to the server using fetch API
+                try {
+                    const response = await fetch('/api/feedback/submit-feedback', {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json'
+                        },
+                        body: JSON.stringify({ 
+                            feedback: feedbackText, 
+                            contactInfo: contactInfo || 'No contact info provided', 
+                            mayContact: mayContact 
+                        })
+                    });
+    
+                    if (response.ok) {
+                        alert('Thank you for your feedback!');
+                        feedbackModal.style.display = 'none';
+                    } else {
+                        alert('There was a problem submitting your feedback. Please try again later.');
+                    }
+                } catch (error) {
+                    alert('An error occurred while submitting your feedback.');
+                    console.error('Error:', error);
+                }
+            } else {
+                alert('Please enter your feedback.');
+            }
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,290 @@
+{
+    "labels": [
+        {
+            "label_id": "mam-1",
+            "is_included_in_hunt": true,
+            "label_str": "PULL DOWN ON THIS ROPE TO LIFT THE PIANO",
+            "label_hints": [
+                "Look for a hands-on exhibit where you can lift heavy objects with ease.",
+                "This exhibit demonstrates the power of simple machines like pulleys.",
+                "Find an interactive display that lets you lift a piano using a rope."
+            ],
+            "related_knowledge": "This interactive exhibit demonstrates the use of pulleys, a simple machine that allows you to lift heavy objects like a piano with minimal effort. It\u2019s a hands-on way to learn about mechanical advantage and the physics of force."
+        },
+        {
+            "label_id": "mam-2",
+            "is_included_in_hunt": false,
+            "label_str": "THE ENERGY MACHINE",
+            "label_hints": [
+                "Find an exhibit about the transformation and transfer of energy.",
+                "This machine showcases different forms of energy and how they interact.",
+                "Look for a display that explores kinetic and potential energy."
+            ],
+            "related_knowledge": "The Energy Machine demonstrates how energy can be converted from one form to another. By exploring mechanical, thermal, and kinetic energy, this exhibit shows how energy powers the world around us and is a fundamental concept in physics."
+        },
+        {
+            "label_id": "mam-3",
+            "is_included_in_hunt": false,
+            "label_str": "WHAT ABOUT WATER?",
+            "label_hints": [
+                "Look for an exhibit about the importance of water in nature and human life.",
+                "This display explores water's role in ecosystems and its chemical properties.",
+                "Find something that discusses how vital water is to all forms of life."
+            ],
+            "related_knowledge": "This exhibit highlights the critical role that water plays in sustaining life on Earth. From its chemical structure to its importance in ecosystems, 'What About Water?' explores the various ways water impacts our planet and lives."
+        },
+        {
+            "label_id": "mam-4",
+            "is_included_in_hunt": true,
+            "label_str": "BASIC CHEMISTRY: IT'S ELEMENTARY! Chevron and Westlake Corporation THE PERIODIC TABLE OF STUFF",
+            "label_hints": [
+                "Find a big table that explores the building blocks of matter: elements.",
+                "This display introduces you to the periodic table and its significance in understanding materials.",
+                "Look for a chart filled with colorful symbols and numbers representing different elements."
+            ],
+            "related_knowledge": "This exhibit introduces the foundational concepts of chemistry, including the structure of atoms, elements, and the periodic table. Visitors can learn how chemical reactions occur and the role of elements in shaping the material world around us."
+        },
+        {
+            "label_id": "mam-5",
+            "is_included_in_hunt": false,
+            "label_str": "MACROMATTER",
+            "label_hints": [
+                "Look for an exhibit discussing large-scale materials.",
+                "This display focuses on macromatter and its properties.",
+                "Find examples of how macromatter is used in various scientific fields."
+            ],
+            "related_knowledge": "Macromatter refers to large-scale materials and their interactions. This exhibit explores how macromatter is studied in scientific fields and the importance of these materials in everything from industrial processes to everyday objects."
+        },
+        {
+            "label_id": "mam-6",
+            "is_included_in_hunt": false,
+            "label_str": "STAR FORGE",
+            "label_hints": [
+                "Look for an exhibit about the birth of stars.",
+                "This display focuses on how stars are formed in space.",
+                "Find a section discussing the stellar formation process."
+            ],
+            "related_knowledge": "The Star Forge exhibit showcases the process of stellar formation, taking visitors through the life cycle of stars. This includes how clouds of gas collapse under gravity to form stars, and how these stars evolve and influence the universe around them."
+        },
+        {
+            "label_id": "mam-7",
+            "is_included_in_hunt": false,
+            "label_str": "ASTROPHYSICS: GO BIG",
+            "label_hints": [
+                "Look for an exhibit that deals with large-scale space phenomena.",
+                "This display explains key concepts in astrophysics.",
+                "Find sections about black holes, galaxies, and the structure of the universe."
+            ],
+            "related_knowledge": "This exhibit introduces visitors to the large-scale phenomena that dominate our universe, such as black holes, galaxies, and the overall structure of the cosmos. It focuses on how astrophysics helps us understand the origins and behavior of these massive systems."
+        },
+        {
+            "label_id": "mam-8",
+            "is_included_in_hunt": false,
+            "label_str": "DEMONSTRATION LAB presented by Shell USA, Inc.",
+            "label_hints": [
+                "Find an interactive lab presented by Shell USA.",
+                "This lab features live demonstrations of scientific principles.",
+                "Look for hands-on science experiments and interactive exhibits."
+            ],
+            "related_knowledge": "The Demonstration Lab, presented by Shell USA, Inc., allows visitors to participate in live scientific demonstrations. The lab explores key scientific principles through interactive, hands-on activities, providing a deeper understanding of concepts ranging from energy to chemistry."
+        },
+        {
+            "label_id": "mam-9",
+            "is_included_in_hunt": false,
+            "label_str": "CRATING MATTER: NANO TO MEGA presented by Oxy",
+            "label_hints": [
+                "Look for an exhibit that discusses matter at both nano and mega scales.",
+                "This display is sponsored by Oxy and features material science.",
+                "Find examples of nano-scale innovations and mega-scale engineering."
+            ],
+            "related_knowledge": "This exhibit covers the wide range of matter from the nano-scale to the mega-scale, highlighting scientific breakthroughs in both areas. Sponsored by Oxy, it demonstrates how small-scale innovations and large-scale engineering have impacted industries and daily life."
+        },
+        {
+            "label_id": "mam-10",
+            "is_included_in_hunt": false,
+            "label_str": "LINACS: STRAIGHT AND TO THE POINT Radiofrequency Cavity Particle Source Straight Particle Beam Target Linear accelerators, or LINACs, are machines that accelerate charged particles like protons in a straight beam. By carefully flipping electric fields in a series of chambers called radiofrequency cavities, LINACs push and pull particles to very high speeds. Today, LINACs provide particle beams for medical radiation and are often the starting point for particles injected into large circular synchrotrons.",
+            "label_hints": [
+                "Find an exhibit about LINACs, machines that accelerate particles in a straight line.",
+                "This display discusses how LINACs are used in medical radiation and research.",
+                "Look for details on how these accelerators provide particles for larger synchrotrons."
+            ],
+            "related_knowledge": "Linear accelerators (LINACs) accelerate charged particles, such as protons, in a straight beam by using alternating electric fields in a series of chambers. They are commonly used in medical radiation treatments and scientific research."
+        },
+        {
+            "label_id": "mam-11",
+            "is_included_in_hunt": false,
+            "label_str": "THE SUBATOMIC FAMILY",
+            "label_hints": [
+                "Find an exhibit that explains the subatomic particles that make up matter.",
+                "This display discusses protons, neutrons, and electrons, the building blocks of atoms.",
+                "Look for examples of how subatomic particles are involved in fundamental forces of nature."
+            ],
+            "related_knowledge": "The subatomic family consists of protons, neutrons, and electrons, which form the building blocks of all matter. These particles interact through fundamental forces like electromagnetism and the strong nuclear force, governing the behavior of atoms."
+        },
+        {
+            "label_id": "mam-12",
+            "is_included_in_hunt": false,
+            "label_str": "FRONTIERS OF SCIENCE presented by The Gordon A. Cain Foundation",
+            "label_hints": [
+                "Find an exhibit presented by the Gordon A. Cain Foundation about cutting-edge scientific research.",
+                "This display discusses the latest developments in fields like physics, biology, and chemistry.",
+                "Look for information on how modern science is pushing the boundaries of knowledge."
+            ],
+            "related_knowledge": "The Frontiers of Science exhibit explores cutting-edge research in fields like physics, chemistry, and biology. Sponsored by the Gordon A. Cain Foundation, it highlights the latest discoveries that are shaping our understanding of the world."
+        },
+        {
+            "label_id": "mam-13",
+            "is_included_in_hunt": false,
+            "label_str": "THE DOUBLE SLIT DEMO",
+            "label_hints": [
+                "Find an exhibit about the famous Double Slit Experiment, which reveals the strange nature of quantum mechanics.",
+                "This display explains how particles can behave like both waves and particles.",
+                "Look for a demonstration that shows how observing particles can change their behavior."
+            ],
+            "related_knowledge": "The Double Slit Experiment is a cornerstone of quantum mechanics. It demonstrates wave-particle duality, where particles like electrons can display both particle-like and wave-like behavior depending on whether they are observed."
+        },
+        {
+            "label_id": "mam-14",
+            "is_included_in_hunt": false,
+            "label_str": "GUTS & TOES",
+            "label_hints": [
+                "Look for an exhibit about the structure and function of human organs and limbs.",
+                "This display focuses on the anatomy of the digestive system (guts) and the limbs (toes).",
+                "Find information about how different body systems work together to support life."
+            ],
+            "related_knowledge": "The human body is composed of various organs and systems, such as the digestive system and limbs. This exhibit explores the intricate structure and function of these systems, highlighting the complexity of human anatomy."
+        },
+        {
+            "label_id": "mam-15",
+            "is_included_in_hunt": false,
+            "label_str": "THE MYSTERY IN THE MIDDLE OF PHYSICS General Relativity describes the smooth and predictable physics of very large scales. Spacetime tells matter how to move, and matter tells spacetime how to curve. A massive object curves space. Deflection Light object moving on a geodesic WE HAVE A PROBLEM.. These two pillars of physics do not agree with each other. Will we find a theory of everything that unites them? Quantum Mechanics describes the jittery and unpredictable physics of very small scales. The ground floor of reality is a weird place where things can be in two places at once, behave as both waves and particles, and exist and not exist simultaneously.",
+            "label_hints": [
+                "Find an exhibit about the two pillars of physics: General Relativity and Quantum Mechanics.",
+                "This display discusses the difficulty in uniting these two theories into one comprehensive framework.",
+                "Look for examples of how both theories work and why they seem incompatible at the smallest and largest scales."
+            ],
+            "related_knowledge": "General Relativity describes the smooth, predictable physics of large scales, while Quantum Mechanics handles the jittery, unpredictable behavior of particles at small scales. Reconciling these two theories is one of the biggest challenges in modern physics."
+        },
+        {
+            "label_id": "mam-16",
+            "is_included_in_hunt": false,
+            "label_str": "NANOTECHNOLOGY & METAMATERIALS",
+            "label_hints": [
+                "Find an exhibit about the revolutionary fields of nanotechnology and metamaterials.",
+                "This display focuses on materials engineered at the nanoscale and their extraordinary properties.",
+                "Look for examples of how these materials are used in fields like electronics and medicine."
+            ],
+            "related_knowledge": "Nanotechnology involves manipulating matter on the atomic and molecular scale to create materials with unique properties. Metamaterials are engineered structures that have unusual properties, such as negative refraction, not found in naturally occurring materials."
+        },
+        {
+            "label_id": "mam-17",
+            "is_included_in_hunt": false,
+            "label_str": "WHAT'S IN A NAME? THE MODERN FIELD OF CHEMISTRY DERIVES ITS NAME FROM THE OLDER TERM ALCHEMY. THE EXACT ORIGIN OF THIS WORD IS UNCERTAIN. ONE POSSIBILITY IS FOUND IN THE ARABIC AL-KIMIA, AL- MEANING THE + KIMIA, POSSIBLY FROM THE LATE GREEK KHEMIA (TRANSMUTING METALS), OR POSSIBLY EGYPTIAN (COPTIC) KHEM (FERTILE BLACK SOIL), OR POSSIBLY THE CHINESE KIM-IYA (GOLD-MAKING JUICE).",
+            "label_hints": [
+                "Find an exhibit about the origins of the word 'alchemy' and its connection to modern chemistry.",
+                "This display explains how ancient practices evolved into the scientific discipline of chemistry.",
+                "Look for references to the various cultures that contributed to the development of alchemy."
+            ],
+            "related_knowledge": "The word 'alchemy' has ancient origins, potentially from the Arabic 'al-kimia' or Greek 'khemia.' Alchemy was an early precursor to chemistry, with practitioners seeking to transform base metals into gold and discover the elixir of life. Modern chemistry developed from these early practices."
+        },
+        {
+            "label_id": "mam-18",
+            "is_included_in_hunt": false,
+            "label_str": "Alchemy in Action",
+            "label_hints": [
+                "Find an exhibit that shows how alchemists used practical tools to conduct experiments.",
+                "This display explains how early experimentalists paved the way for modern chemistry.",
+                "Look for tools like mortars, furnaces, and filters that were commonly used by alchemists."
+            ],
+            "related_knowledge": "Alchemists conducted experiments using various tools like filtration funnels, balance scales, flame test apparatus, and alembics. These tools helped them attempt to transform base metals into gold and laid the foundations for modern chemistry."
+        },
+        {
+            "label_id": "mam-19",
+            "is_included_in_hunt": false,
+            "label_str": "CAN YOU FIND THE TOOLS OF THE ALCHEMICAL TRADE? FILTRATION FUNNEL Achemists Worked With DitS of matter far too small to manipulate with needles and tweezers. When they needed a way of separating substances by particle size, they turned to filters. By running substances through different kinds of filter media, they could catch particles above a certain size. BALANCE SCALE When alchemists really got serious, they needed a way to make quantitative analysis of their experiments, keeping track of how much their reagents weighed before going into reactions and comparing that weight With reaction Proaucts Luckily, the balance scale had been around for quite some time in the evaluation of currency. FLAME LEST APPARATUS Early experimentalists discovered that when metals burn, they emit different colors of light. The so-called flame test allowed alchemists to figure out which elements were handful of metals were known, they could be easily identified by the color of their flames. For example, copper salts burn green, while sodium burns yellow. MORTAR AND PESTLE A bowl-like mortar paired with a pestle for pounding-both made r\u00f3m hard materials such as granite\u2014 were used to grind up solid reagents. Crushing chunks of material into line powuer greatly increased the surface area available for interesting reactions. COPPER STILL Some alchemists designed a distilling apparatus made of copper or ronze, fashioned so that, as the bottom vessel was gently heated, the top could be cooled with water or ice. This allowed alchemists to distill substances more efficiently using gentler heat. CRUCIBLE Crucibles are small metal or ceramic vessels made for withstanding the high heat, rapid temperature changes, and caustic reactions occurring inside furnaces. By heating the ore within them to molten-hot temperatures, alchemists could separate metal from slag. Then, using specialized crucibles made of bone ash called cupels, alchemists could separate base metals (which reacted with the cupel) from heavy, noble metals like gold, silver, and platinum. FURNACE Every alchemist's workshop requires a way to heat up materials. Heating substances can change their physical state, increase the speed of reactions, and provide the initial spark of energy that gets a reaction going in the first place. Refractory furnaces used bellows to inject oxygen in order to achieve the high temperatures needed to smelt metals, while chambered furnaces could drive off oxygen and heat up reagents in its absence. Sand or oil baths atop these furnaces could be used to heat delicate mixtures evenly. ALEMBIC Separating mixed substances from one another was one great challenge facing alchemists. They figured out that some substances have different boiling points than others. An alembic is an assembly of glassware designed to make use of this difference in volatility to distill substances. After heating the base, the more volatile substance vaporizes hirst and condenses in the cooler neck, eventually \u2022 collecting in the second vessel. ALCHEMICAL INVENTIONS Alchemists might not have understood the chemistry behind their experiments, but the tools they invented in their quests for riches and eternal life actually worked. These inventions-from glass-blown distillation vessels to specialized furnaces-allowed them to handle the elements with new precision and paved the way for chemistry.",
+            "label_hints": [
+                "Look for tools that alchemists used in their quest for transformation.",
+                "This display highlights the most important alchemical tools like crucibles and furnaces.",
+                "Find examples of how each tool was used in alchemical experiments."
+            ],
+            "related_knowledge": "Alchemists used tools like filtration funnels, balance scales, flame test apparatus, mortars, and crucibles. These tools were essential for separating substances, measuring reagents, and heating elements in the pursuit of alchemical transformations."
+        },
+        {
+            "label_id": "mam-20",
+            "is_included_in_hunt": false,
+            "label_str": "THE ORIGIN OF CHEMISTRY CENTURIES BEFORE THE PERIODIC TABLE, THE ELEMENTS FASCINATED GREAT MINDS AROUND THE WORLD. PEOPLE SEARCHED FOR CRYPTIC SECRETS IN METALS, ACIDS, OILS, AND ORGANIC MATTER, SLOWLY UNLOCKING THE TRUE NATURE OF NATURE. THESE ARCHAIC EXPERIMENTERS LAID THE EARLIEST FOUNDATIONS OF MODERN CHEMISTRY, AND GAVE THE FIELD ITS NAME. WELCOME TO THE WORLD OF ALCHEMY.",
+            "label_hints": [
+                "Find an exhibit that traces the roots of modern chemistry back to alchemy.",
+                "This display discusses how early chemists laid the foundation for modern science.",
+                "Look for references to how ancient cultures like Egypt and Greece contributed to chemistry."
+            ],
+            "related_knowledge": "The field of modern chemistry evolved from ancient practices of alchemy, where early scientists experimented with transforming materials. Over centuries, these practices laid the foundation for the study of elements and compounds, leading to the discovery of the periodic table."
+        },
+        {
+            "label_id": "mam-21",
+            "is_included_in_hunt": false,
+            "label_str": "MAN- MADE Scientists create specialized, man-made materials from natural elements. PLYWOOD IS CREATED BY STACKING AND GLUING THIN WOOD SHEETS. THROUCH CHEMICAL FROCESSES ANO DISTLATION. TRANSFORMING THEIR HYDROCARBON MOLECULES. COMEN BEM WITH POL MENST FROM MIXING ALLOYS WITH SPECIFIC DESIRED PROPERTIES ARE PRODUCED BY COMBINING VARIOUS METALS IN DIFFERENT PROPORTIONSDIFFERENT PROPORTIONS. CERMET USED IN ELECTRONICS, CUTTING TOOLS, AND OTHER APPLICATIONS, IS OBTAINED BY FUSING CERAMICS AND METAL",
+            "label_hints": [
+                "Find an exhibit about how humans have engineered materials from natural elements.",
+                "This display discusses man-made materials like plywood and alloys.",
+                "Look for examples of how synthetic materials are used in technology and industry."
+            ],
+            "related_knowledge": "Man-made materials are engineered by combining natural elements through processes like chemical reactions and distillation. These materials, such as alloys and synthetic polymers, have unique properties that make them useful in various applications like electronics and construction."
+        },
+        {
+            "label_id": "mam-22",
+            "is_included_in_hunt": false,
+            "label_str": "SYNCHROTRONS: THE HEAVY LIFTERS Main Ring Bending/Focusing Magnets Booster Ring Synchrotrons are powerful particle accelerators that use a circular ring and strong magnets to bend charged particles into a closed-loop circular path. Radiofrequency cavities provide energy boosts, allowing particles to reach ultra-high speeds. Synchrotrons produce intense beams of radiation used for various scientific experiments, including materials analysis and structural biology. Particle Beams Particle Collision",
+            "label_hints": [
+                "Find an exhibit about synchrotrons, powerful particle accelerators.",
+                "This display explains how synchrotrons are used to accelerate particles in a circular path.",
+                "Look for examples of how synchrotrons are used in scientific experiments like materials analysis."
+            ],
+            "related_knowledge": "Synchrotrons are particle accelerators that use powerful magnetic fields to accelerate particles in a circular path. They generate high-energy beams used in various fields, including materials science and structural biology, to study the properties of matter."
+        },
+        {
+            "label_id": "mam-23",
+            "is_included_in_hunt": false,
+            "label_str": "TURNED TO STONE The Chemistry of Fossilization",
+            "label_hints": [
+                "Look for an exhibit about the process of fossilization.",
+                "This display discusses how living organisms become fossilized over millions of years.",
+                "Find examples of how different conditions lead to the preservation of fossils."
+            ],
+            "related_knowledge": "Fossilization is the process by which living organisms become preserved in rock over millions of years. The conditions necessary for fossilization include rapid burial and the replacement of organic material with minerals, resulting in stone-like fossils that provide insight into ancient life."
+        },
+        {
+            "label_id": "mam-24",
+            "is_included_in_hunt": false,
+            "label_str": "ANATOMY OF A PARTICLE DETECTOR: INTERIOR Hadron Calorimeter Superconducting Solenoid Iron Yoke Interspersed with Muon Chambers Electromagnetic Calorimeter Silicon Tracker Human to Scale Each layer of a particle detector is designed to pick up different kinds of particles. Electron Proton Photon Neutron Muon",
+            "label_hints": [
+                "Find an exhibit that explains the structure of a particle detector.",
+                "This display discusses the different layers of a detector and what particles they capture.",
+                "Look for references to particles like protons, electrons, and muons."
+            ],
+            "related_knowledge": "A particle detector is designed to track and measure the energy of subatomic particles. Each layer, from the Hadron Calorimeter to the Muon Chambers, plays a role in capturing and analyzing different types of particles, helping scientists study fundamental forces in the universe."
+        },
+        {
+            "label_id": "mam-26",
+            "is_included_in_hunt": false,
+            "label_str": "ATOMIC ANATOMY The atom Is a union of three kinds of particles: protons, neutrons, and electrons. Except for hydrogen -which has no neutrons-protons and neutrons form the nucleus of every atom, while electrons orbit the nucleus in a series of successive energy levels called shells. In atomic models, these shells are often represented by concentric circles, but in reality, they are cloudlike zones in which an electron can exist anywhere at any moment. When an Imbalance of protons and electrons produces an unstable electric charge, atoms stabilize themselves by stealing or sharing electrons in their outer shells. This exchange forms chemical bonds-the basis for all chemical interactivity.",
+            "label_hints": [
+                "Find an exhibit about the structure of atoms and how chemical bonds form.",
+                "This display explains the roles of protons, neutrons, and electrons in forming matter.",
+                "Observe the visual representation of electron shells and their energy levels."
+            ],
+            "related_knowledge": "Atoms consist of a nucleus made up of protons and neutrons, surrounded by electrons that orbit in various energy levels. Atoms form chemical bonds by sharing or exchanging electrons, leading to the formation of compounds, which is the basis of all chemical reactions."
+        },
+        {
+            "label_id": "mam-27",
+            "is_included_in_hunt": false,
+            "label_str": "CYCLOTRONS: THE WORKHORSES Electromagnet D-Shaped Cavity Particle Source Spiral Beam Path Cyclotrons accelerate charged particles outwards from the center of a cylindrical vacuum chamber along a flat, spiraling path. The particles are accelerated by a rapidly oscillating electric field and are held in their trajectories by a magnetic field. Today, cyclotrons are predominantly used for medical imaging and radiation therapy. Target Oscillator Electromagnet",
+            "label_hints": [
+                "Find an exhibit about cyclotrons, the workhorses of particle physics.",
+                "This display explains how cyclotrons accelerate particles using magnetic fields.",
+                "Look for examples of how cyclotrons are used in medical imaging and research."
+            ],
+            "related_knowledge": "Cyclotrons are particle accelerators that use magnetic fields to accelerate charged particles in a spiral path. These machines are used in various scientific and medical applications, including radiation therapy and the production of medical isotopes for imaging."
+        }
+    ]
+}

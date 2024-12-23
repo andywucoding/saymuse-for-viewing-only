@@ -1,0 +1,12 @@
+{
+    "museums": [
+        {
+            "name": "Houston Museum of Natural Science",
+            "acronym": "hmns"
+        },
+        {
+            "name": "Museum of Modern Art",
+            "acronym": "moma"
+        }
+    ]
+}

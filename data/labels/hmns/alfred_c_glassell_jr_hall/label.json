@@ -1,0 +1,48 @@
+{
+    "labels": [
+        {
+            "label_id": "acgjh-1",
+            "is_included_in_hunt": true,
+            "label_str": "BLACK MARLIN BLUE MARLIN WAHOO canthocybium solandri GREAT HAMMERHEAD SHARK Sphyrna mokarran DUSKY DOLPHIN Lagenorhynchus obscurus COMMON THRESHER SHARK Alopias vulpinus ROOSTERFISH Nomatus prearls YELLOWFIN TUNA Thunnus albacares AFRICAN POMPANO RiEcus Clahs SHARKSUCKER COMMON DOLPHINFISH",
+            "label_hints": [
+                "Look for an exhibit filled with fast swimmers and ocean predators.",
+                "This exhibit showcases a variety of marine species, from sharks to tuna.",
+                "Look for hammerhead sharks, dolphins, and the impressive marlin species."
+            ],
+            "related_knowledge": "This exhibit highlights the diverse marine species of the ocean, showcasing various predators like marlins, sharks, and tunas. These animals are adapted to the fast-paced life in the ocean, using their speed and specialized anatomy to survive and thrive."
+        },
+        {
+            "label_id": "acgjh-2",
+            "is_included_in_hunt": false,
+            "label_str": "GLASSELL: THE GAME-FISH HERO While Alfred Glassell, Jr. was a altute businessman, he spent lot of time pursuing large species of game fish. Never daunted by a challenge, one of Glassell's favorite species to target-fish was the Black Marlin, just because they were so difficult to hook and land compared to other 'bill fish' such as other species of marlin and sailfish. He caught well over 30 Black Marlin in Cabo Blanco, Peru, and at least four of these were over 1000 pounus SPORTS Glassell fished other areas Tor black Marlin besides Cabo Blanco. He caught nearly 30 Black Marlin off the coasts of Panama, Ecuador, Colombia.Glassell also fished the Indian Ocean for this species, since they were rumored to be larger in that region. In 1960 he took a fishing boat targeting the marlin, voyaging from Ceylon (south of India) all the way to Mombasa Kenya (east Africa), but only caught 3 small, unremarkable Black Marlin. grishing with Hemingway and Glassell Classell was a generous philanthropist, and helped form the Cabo Blanco Fishing Club in the 1950's, which made fishing naecibio in this realon MarDoni! the best fishing grounds for Blach Marlin. The record 1560 pound fish displayed here was filmed and used for the footage in the 1958 film The Old Man and the Sea, starring Spencer Tracy as the fisherman Rooks and maio haon written about Glassell the great in August 2013 he was honored by the Peruvian government, when they ran a special stamp to commemorate the 60th anniversary or his record Martin",
+            "label_hints": [
+                "Look for an exhibit about Alfred Glassell, a famous game-fish angler.",
+                "This display focuses on Glassell's pursuit of large game fish like Black Marlin.",
+                "Find information about his record-breaking catches and the legacy he left in the fishing world."
+            ],
+            "related_knowledge": "Alfred Glassell was a renowned game-fish angler, known for catching record-breaking Black Marlin. He spent much of his life pursuing large species of game fish and was instrumental in the establishment of fishing clubs and the promotion of conservation efforts in the sport."
+        },
+        {
+            "label_id": "acgjh-3",
+            "is_included_in_hunt": true,
+            "label_str": "ALFRED C. GLASSELL, JR. HALL GIANT SQUID Architeuthis dux Giant squids, (Architeuthis dux) have mystified and excited our imaginations for hundreds of years, inspiring myths and stories that have continued into modern times. Until recently, all we knew about them was learned from dead specimens washed ashore or accidentally caught in fishing nets. In 2012, actual footage of a live giant squid was made by a team of Japanese scientists and filmmakers in the deep ocean around Japan. It was a female specimen that had lost its two longest tentacles, so its correct length was not able to be measured. The largest dead specimen to date measured 43 feet in length. The beaks of giant squids have been found in the stomachs of Sperm Whales which are its only known predator. Scars from the squid's suckers on the arms and tentacles are frequently seen on Sperm Whales. Squids are invertebrate Molluscs and you can learn more about Molluscs here in the Strake Hall of Malacology. As we continue to learn more about the deep ocean habitats, we are increasingly motivated to protect this mysterious realm. The exploration of the oceans will continue to solve many mysteries and reveal new species.",
+            "label_hints": [
+                "Look for an exhibit about the giant squid, one of the ocean's most mysterious creatures.",
+                "This display highlights the challenges scientists face in studying deep-sea creatures like the giant squid.",
+                "Learn how sperm whales, the only known predator of giant squids, bear scars from their battles."
+            ],
+            "related_knowledge": "The giant squid, Architeuthis dux, has long fascinated scientists and inspired myths. Rarely seen alive, they were first filmed in their natural deep-sea habitat in 2012. Sperm whales are their only known predators, often bearing sucker scars from their encounters."
+        },
+        {
+            "label_id": "acgjh-4",
+            "is_included_in_hunt": true,
+            "label_str": "ALFRED C. GLASSELL, JR. HALL BLACK MARLIN Istiompax indica BLUE MARLIN Makaira nigricans Tropical and temperate oceans worldwide allt of Altred C. Clangell, Jr. TOM SRITTAM WAHOO Acanthocybium solandrit GREAE HAMMERHEAD SHARK Sphyrna mokarran 1- Tropled anes wotdwte oal DUSKY DOLPHIN Lagenorhynchus obscurus Tropical and sub-tropical coastal zones In Southern Hem COMMON THRESHER SHARK Alopias vulpinus Tropical and temperate oceans worldwide ROOSTERFISH Nematistlus pectoralis Eastorn tropleal Pacifie ocean YELLOWFIN TUNA Thunnus albacares Tropical and tomperate oceans worldwid COMMON DOLPHINFISH Coryphaena hippurus Tropical and sub AFRICAN POMPANO Alectis ciliaris Tropical and sub-tropical ocoans wordwide SHARKSUCKER REMORA Echinis naucrates Gift of Troy Denson",
+            "label_hints": [
+                "Look for an exhibit about the giant Manta Ray and Ocean Sunfish from tropical and temperate oceans.",
+                "This display shows the unique features of Manta Rays and Ocean Sunfish",
+                "Find an exhibit about how Manta Rays and Sunfish gracefully navigate through the world\u2019s oceans."
+            ],
+            "related_knowledge": "The Manta Ray (Manta birostris) is a large species of ray found in tropical and temperate oceans worldwide. With wingspans of up to 23 feet, these graceful creatures are filter feeders, known for their acrobatic displays while swimming."
+        }
+    ]
+}

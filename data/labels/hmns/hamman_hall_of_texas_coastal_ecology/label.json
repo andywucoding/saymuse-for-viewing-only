@@ -1,0 +1,345 @@
+{
+    "labels": [
+        {
+            "label_id": "hhotce-1",
+            "is_included_in_hunt": false,
+            "label_str": "American Brown Pelican Pelecanus occidentalis American Brown Pelican: A Conservation & Restoration Success Story (From Audubon Texas website) Through the early 1900s, shooting for the millinery trade and to protect fishing caused a major decline in the Brown Pelican population. Legal protection began in 1903 when Pelican Island, Florida, was set aside as a federal preserve. Despite this, and despite the birds' longevity and popularity, Brown Pelicans nearly disappeared from North America between the 1950s and the 1970s as a result of pesticide use. The pesticide endrin killed pelicans outright, and DDT caused thin-shelled eggs that broke under the weight of incubating parents. By 1970, most North American populations, with the exception of a few in Florida, were gone, and the species was placed on the Federal Endangered Species List. DDT use was banned in the United States in 1972, and populations have rebounded since that time. Their growing abundance in the U.S. since the banning of DDT represents a conservation success story. The total U.S. population size now exceeds historical levels, the number of breeding pairs in most states is stable, and Audubon Christmas Bird Counts and USGS North American Breeding Bird Survey data show increases. The birds were removed from the Endangered Species List in the southeastern United States in 1985; however, endangered status has been retained throughout the remainder of its range.",
+            "label_hints": [
+                "Find an exhibit about the conservation success story of the American Brown Pelican.",
+                "This display focuses on how the pelican population was restored after near-extinction.",
+                "Look for information about the threats that endangered the species and the efforts that saved it."
+            ],
+            "related_knowledge": "The American Brown Pelican was nearly driven to extinction in the 20th century due to pesticide use and habitat loss. After being placed on the Endangered Species List and banning harmful pesticides like DDT, the population rebounded, making it a conservation success story."
+        },
+        {
+            "label_id": "hhotce-2",
+            "is_included_in_hunt": false,
+            "label_str": "What is an Estuary? Estuaries exist all along the Texas coast. These partially enclosed areas of water are fed by freshwater rivers and streams, as well as ocean water. This mixture of fresh and salt water is what form an estuary.",
+            "label_hints": [
+                "Look for an exhibit that explains what estuaries are and why they are important.",
+                "This display discusses how estuaries form where freshwater and saltwater meet.",
+                "Find information about the wildlife and ecosystems that rely on estuaries."
+            ],
+            "related_knowledge": "Estuaries are areas where freshwater from rivers and streams mixes with saltwater from the ocean, creating a unique and highly productive ecosystem. These environments are crucial for many species, providing breeding grounds and rich habitats for marine life."
+        },
+        {
+            "label_id": "hhotce-3",
+            "is_included_in_hunt": false,
+            "label_str": "MIDDLE COAST",
+            "label_hints": [
+                "Look for an exhibit about the Middle Coast of Texas, a diverse coastal region.",
+                "This display focuses on the geography and ecosystems of the Middle Coast.",
+                "Find information about the wildlife and plants that live in this coastal area."
+            ],
+            "related_knowledge": "The Middle Coast of Texas is a diverse region characterized by a mix of estuaries, wetlands, and coastal plains. This region supports a wide range of ecosystems, from salt marshes to forests, and is home to many species of birds, fish, and plants."
+        },
+        {
+            "label_id": "hhotce-4",
+            "is_included_in_hunt": false,
+            "label_str": "THE TEXAS COAST The Texas coast stretches for 367 miles between Louisiana and Mexico, spanning 18 Texas counties. In addition, there are seven major protected bays and estuaries formed by five barrier islands and two major peninsulas. Ecology of the Texas Coast The Texas coast is a wonderful natural laboratory for the study of ecology. Ecology is the study of how organisms interact with their environment. Marine life abounds in these widely varied habitats, which include everything from northern bays and estuaries with a lot of rainfall and low salinity to South Texas' semi-arid, hypersaline waters. The entire outer coast is dominated by sandy beaches, while visitors to the upper and middle coast bays will be greeted with salt marshes and oyster reefs. The lower coast of Laguna Madre is home to seagrass beds and wind-tidal flats. Each of these coastal areas is home to an astoundingly diverse array of plant and animal life. The 367 mile long Texas coast is often divided into three segments or regions because of its great length and the differing natural and anthropogenic characteristics of each area: Upper, Middle, and Lower Coast. Although these are arbitrary divisions of the coast and there are no distinctive lines that separate them, we have chosen to divide the coast in this fashion in the Hamman Hall for ease of presentation and discussion of the various areas. Each segment is approximately 125 miles in length and has six Texas counties. The Hamman Hall of Texas Coastal Ecology will teach visitors about the diversity of life and habitate along the Texas coast, as well as the impacts that humans are having on these natural systems and what conservation measures are needed to sustain the coast for future generations.",
+            "label_hints": [
+                "Find an exhibit about the diverse ecosystems of the Texas coast, which stretches over 367 miles.",
+                "This display explains the varied habitats of the Texas coast, from sandy beaches to salt marshes.",
+                "Learn how human activities are impacting these natural systems and the conservation efforts underway."
+            ],
+            "related_knowledge": "The Texas coast spans 367 miles, featuring diverse ecosystems like estuaries, salt marshes, and seagrass beds. These habitats support a wide array of marine life and are crucial for the local economy. Conservation efforts are needed to protect these areas from human impact."
+        },
+        {
+            "label_id": "hhotce-5",
+            "is_included_in_hunt": false,
+            "label_str": "Disappearing Oyster Reefs Once, oyster reefs were both highly important and incredibly common in estuaries around the world, providing a structural and ecological component that fueled coastal economies for centuries. For years, oysters supported civilization as an easy-to-collect source of food. However, a recent global survey revealed that 85% of all oyster reefs on earth are now gone. This once flourishing habitat is now threatened on a global scale. The Gulf of Mexico is home to some of the best and largest remaining oyster reefs in the world. Even so, overharvesting, pollution, and dredging for shells used in industrial processes have taken a toll on these reefs, and there is a great need for conservation and restoration to recover this important species and habitat.",
+            "label_hints": [
+                "Look for an exhibit about the global decline of oyster reefs, once vital for coastal economies.",
+                "This display explains how overharvesting and pollution have destroyed 85% of the world's oyster reefs.",
+                "Learn about conservation efforts to restore oyster reefs, especially in the Gulf of Mexico."
+            ],
+            "related_knowledge": "Oyster reefs, which were once abundant worldwide, have seen an 85% decline due to overharvesting, pollution, and habitat destruction. The Gulf of Mexico still hosts some of the largest remaining oyster reefs, but restoration efforts are critical to their survival."
+        },
+        {
+            "label_id": "hhotce-6",
+            "is_included_in_hunt": false,
+            "label_str": "The Eastern Oyster The Eastern oyster (Crassostrea virginica) has often been called an ecosystem engineer, because they not only produce their own habitat, but habitat for an entire ecosystem. In addition to habitat, oyster reefs provide many ecosystem services, including water filtration, food, shoreline stabilization and protection, and fisheries. The Eastern oyster ranges from Canada to Texas along the Atlantic coast and into the Gulf of Mexico. It lives in the intertidal and subtidal waters of our estuaries, preferring the upper parts of bays where freshwater rivers result in a slightly lower concentration of salt. Despite this, they can survive in high salinity environments, although disease and parasites, as well as predators like stone crabs and oyster drills, do take a toll.",
+            "label_hints": [
+                "Find an exhibit about the Eastern oyster, a species that engineers entire ecosystems.",
+                "This display explains how oyster reefs provide habitat, stabilize shorelines, and filter water.",
+                "Learn about the challenges Eastern oysters face from predators, disease, and high salinity."
+            ],
+            "related_knowledge": "The Eastern oyster (Crassostrea virginica) is considered an ecosystem engineer due to its ability to create habitats for other species and filter water. Found along the Atlantic coast and Gulf of Mexico, Eastern oysters face threats from disease, parasites, and predators like stone crabs."
+        },
+        {
+            "label_id": "hhotce-7",
+            "is_included_in_hunt": false,
+            "label_str": "Oyster reef habitat of the Bay Area. In addition to providing an important fishery, oysters provide a hard substrate for a diverse array of other organisms. 1 - Crassostrea virginica (oyster) 2 - Balanus sp. (acorn barnacles) 3 - Serpulid polychaete worms 4 - Mussels 5 - Tunicates (sea squirts) 6 - Stramonita haemastoma (rock snail) 7 - Crepidula fornicata (slipper shell) 8 - Corophium sp. (amphipod) 9 - Nereid polychaete worm 10 - Libinia dubia (spider crab) 11 - Menippe adina (stone crab) 12 - Pogonias cromis (black drum)",
+            "label_hints": [
+                "Look for an exhibit showcasing the diverse species that live in and around oyster reefs in the Bay Area.",
+                "This display explains the role of oyster reefs in providing a hard substrate for other organisms.",
+                "Learn about the various invertebrates and fish that rely on oyster reefs for shelter and food."
+            ],
+            "related_knowledge": "Oyster reefs provide a vital hard substrate for a range of organisms, including barnacles, mussels, and polychaete worms. These reefs support a rich biodiversity, offering food and habitat for species like black drum fish and stone crabs in the Bay Area."
+        },
+        {
+            "label_id": "hhotce-8",
+            "is_included_in_hunt": false,
+            "label_str": "Birth and Death Oysters spawn in estuaries where their eggs and larvae are very common. The young larvae must have a hard surface, preferably an oyster reef, to settle on and grow. Juvenile oysters, called spat, are less than one inch in size. It takes about 18-24 months for the young oysters to grow to three inches or more, what is considered market size. Oyster reef shells, both living and dead, form the foundation for the oyster reef community. This diverse habitat includes many species of algae, invertebrates, and fish. Acorn barnacles and worm tubes attach themselves to the oyster shells, and several kinds of sponges, worms, and bivalves actually bore into the shells. Mussels, snails, crabs, snapping shrimp, and small fish live among the oyster shells, and larger fish are found around the reefs feeding",
+            "label_hints": [
+                "Find an exhibit about the life cycle of oysters, from larvae to market-sized adults.",
+                "This display explains how juvenile oysters, called spat, settle on hard surfaces like oyster reefs.",
+                "Learn about the diverse community of organisms that live among the oyster shells."
+            ],
+            "related_knowledge": "Oysters spawn in estuaries, where their larvae settle on hard surfaces to grow. Juvenile oysters, or spat, play a key role in building oyster reefs that support various species, including barnacles, snails, and crabs. These reefs create a complex ecosystem that fosters biodiversity."
+        },
+        {
+            "label_id": "hhotce-9",
+            "is_included_in_hunt": false,
+            "label_str": "Economic Importance Galveston Bay is the primary oyster fishing bay in Texas. Other bays include Matagorda, Aransas, and Copano. These bays serve as important economic centers for the fishing industry, providing an abundance of seafood to communities. Healthy oyster reefs are also a favorite place for recreational fishermen, given the diversity of these areas. Unfortunately, in 2008, Hurricane Ike damaged many of the oyster reefs in Galveston Bay, covering them with sediment.",
+            "label_hints": [
+                "Look for an exhibit about the economic importance of oyster fishing in Texas.",
+                "This display explains how Galveston Bay is the primary oyster fishing area in Texas.",
+                "Learn how hurricanes like Ike have damaged oyster reefs, threatening this vital industry."
+            ],
+            "related_knowledge": "Galveston Bay is Texas's most important oyster fishing area, providing significant economic benefits to local communities. However, natural disasters like Hurricane Ike have damaged many oyster reefs, underscoring the need for restoration efforts to sustain the industry."
+        },
+        {
+            "label_id": "hhotce-10",
+            "is_included_in_hunt": false,
+            "label_str": "The Restoration of the Reefs Recognizing both the ecological and the economic importance of oyster reefs, organizations have begun to investigate their restoration. The once large and famous Half Moon Reef in Matagorda Bay almost disappeared entirely due to overfishing and other issues. It has now been partially restored due to the work of The Nature Conservancy, re-establishing it with limestone rocks and restoring ecological function while preventing oyster fishing activities. This project has been a great success, with many oysters now growing on the new, limestone substrate. The Sink Your Shucks Program, developed by the Harte Research Institute for Gulf of Mexico Studies at Texas A&M University-Corpus Christi, is a restoration program that encourages seafood restaurants to recycle oyster shells to shrinking reef areas to promote growth.",
+            "label_hints": [
+                "Find an exhibit about the restoration of oyster reefs, such as the famous Half Moon Reef.",
+                "This display explains how conservation groups are using limestone rocks to rebuild oyster reefs.",
+                "Learn about programs like 'Sink Your Shucks' that encourage oyster shell recycling for reef restoration."
+            ],
+            "related_knowledge": "Oyster reef restoration projects, such as those led by The Nature Conservancy, have successfully rebuilt reefs like Half Moon Reef using limestone rocks. Programs like 'Sink Your Shucks' promote recycling oyster shells to help restore shrinking reefs and improve ecological health."
+        },
+        {
+            "label_id": "hhotce-11",
+            "is_included_in_hunt": false,
+            "label_str": "BALD CYPRESS KNESS, TRINITY DELTA AREA, LAKE CHARLOTTE, WALLISVILLE, CHAMBERS COUNTY PHOTO COURTESY OF JIM OLIVE",
+            "label_hints": [
+                "Look for an exhibit featuring bald cypress trees in the Trinity Delta area of Lake Charlotte.",
+                "This display explores how cypress knees, part of the root system, help stabilize trees in wetland habitats.",
+                "Learn about the role of bald cypress trees in wetland ecosystems like Chambers County."
+            ],
+            "related_knowledge": "Bald cypress trees are commonly found in wetland areas, such as the Trinity Delta in Chambers County. Their unique root structures, known as cypress knees, help stabilize them in the waterlogged soil and support the surrounding ecosystem."
+        },
+        {
+            "label_id": "hhotce-12",
+            "is_included_in_hunt": false,
+            "label_str": "SALT MARSH, GALVESTON BAY PHOTO COURTESY OF JIM OLIVE",
+            "label_hints": [
+                "Find an exhibit about the salt marshes of Galveston Bay, an important coastal habitat.",
+                "This display explains the ecological importance of salt marshes as nursery grounds for fish, shrimp, and crabs.",
+                "Learn about the role salt marshes play in protecting shorelines from erosion."
+            ],
+            "related_knowledge": "Salt marshes are coastal wetlands that provide critical habitat for various species. In Galveston Bay, they serve as nursery grounds for marine life, including shrimp, crabs, and fish. Salt marshes also help filter runoff and protect shorelines from erosion."
+        },
+        {
+            "label_id": "hhotce-13",
+            "is_included_in_hunt": false,
+            "label_str": "GREAT EGRET FISHING IN MARSHY POND PHOTO COURTESY OF JIM OLIVE",
+            "label_hints": [
+                "Look for an exhibit featuring a great egret fishing in a marshy pond habitat.",
+                "This display highlights the feeding behavior of the great egret, a common wetland bird.",
+                "Learn how great egrets use their long necks and sharp beaks to catch fish in shallow waters."
+            ],
+            "related_knowledge": "The great egret is a large wetland bird known for its fishing behavior in marshy ponds. Using its long neck and sharp beak, the egret quickly strikes to catch fish, playing a vital role in wetland ecosystems by controlling fish populations."
+        },
+        {
+            "label_id": "hhotce-14",
+            "is_included_in_hunt": false,
+            "label_str": "BABY ALLIGATORS SUNNING ALONG SHORELINE, BRAZOS BEND STATE PARK PHOTO COURTESY OF JIM OLIVE",
+            "label_hints": [
+                "Find an exhibit about baby alligators sunning along the shoreline at Brazos Bend State Park.",
+                "This display explores how young alligators use the sun's warmth to regulate their body temperature.",
+                "Learn about the life cycle and growth of American alligators in Texas wetlands."
+            ],
+            "related_knowledge": "In places like Brazos Bend State Park, baby alligators can often be seen sunning along shorelines. Sunbathing is an essential behavior for reptiles, helping them regulate their body temperature. American alligators are common in Texas wetlands and play a key role in these ecosystems."
+        },
+        {
+            "label_id": "hhotce-15",
+            "is_included_in_hunt": false,
+            "label_str": "HUGE WAVE CRASHING ON GALVESTON SEAWALL DURING HURRICANE IKE RIGHT BEHIND THE 1900 HURRICANE MEMORIAL STATUE PHOTO COURTESY OF JIM OLIVE IMPACTS HURRICANE IKE STORM DAMAGE AND DEBRIS PHOTO COURTESY OF JIM OLIVE",
+            "label_hints": [
+                "Look for an exhibit about the damage caused by Hurricane Ike, particularly in Galveston.",
+                "This display explains how the hurricane's storm surge led to significant debris and destruction along the Texas coast.",
+                "Learn about the impacts of hurricanes on coastal environments and communities."
+            ],
+            "related_knowledge": "Hurricane Ike, which struck the Texas coast in 2008, caused widespread damage, particularly in Galveston. The storm surge left behind significant debris and destruction, highlighting the vulnerability of coastal communities to hurricanes and the importance of disaster preparedness."
+        },
+        {
+            "label_id": "hhotce-16",
+            "is_included_in_hunt": false,
+            "label_str": "RESTORATION DUNE RESTORATION ON GALVESTON ISLAND PHOTO COURTESY OF JIM OLIVE",
+            "label_hints": [
+                "Find an exhibit about dune restoration efforts on Galveston Island.",
+                "This display explains how dunes protect coastal areas from storm surges and erosion.",
+                "Learn about the importance of restoring dune habitats to support wildlife and protect infrastructure."
+            ],
+            "related_knowledge": "Dune restoration on Galveston Island is crucial for protecting coastal areas from storm surges and erosion. These natural barriers also provide habitat for various species, supporting biodiversity and helping safeguard infrastructure from the impacts of hurricanes."
+        },
+        {
+            "label_id": "hhotce-17",
+            "is_included_in_hunt": false,
+            "label_str": "SALT MARSHES",
+            "label_hints": [
+                "Look for an exhibit about salt marshes as essential coastal wetland habitats.",
+                "This display explains the role of salt marshes in providing a nursery for young fish, shrimp, and crabs.",
+                "Learn how salt marshes stabilize shorelines and filter runoff from the land."
+            ],
+            "related_knowledge": "Salt marshes are vital coastal habitats, acting as nurseries for young marine species like fish, shrimp, and crabs. These wetlands also play a crucial role in stabilizing shorelines, filtering water, and providing habitat for a diverse range of species."
+        },
+        {
+            "label_id": "hhotce-18",
+            "is_included_in_hunt": false,
+            "label_str": "COASTAL PRAIRIE STRIPED SKUNK Mephitis mephitis BLACK VULTURE Cathartes aura 10 3713 EASTERN KINGBIRD Tyrannus tyrannus VO 511, 766 MOUNTAIN LION Felis concolor VM 324 Gift ot Chet coumes FERAL HOG Sus scrofa AMERICAN BISON Bison bison ATTWATER'S PRAIRIE CHICKE Tympanuchus cupido attwateri WHITE-TAILED HAWK Buteo albicaudatus VO 152 Netorg curt firo feme ned .. AMERICAN KESTREL Falco sparverius VO 894 AMERICAN PIPIT Anthus rubescens VO 552-553 LOGGERHEAD SHRIL Lanius ludovicianus VO 803, 817 Nationally (USF&WS): Conserva NORTHERN MOCKINGBIRD Mimus polyglottos WHITE-FOOTED MOUSE Peromyscus leucopus M 1338 COMMON SNIPE Gallinago gallinago VO 255, 696, 836 EASTERN MEADOWLARK Sturnella magna VO 633-634, 731 CATTLE EGRET Bubulcus ibis WHITE-FRONTED GOOSE Anser albifrons 10 73-74, 3243 SANDHILL CRANE Grus canadensis /0 232-233 BARN OWL Tyto alba VO 931 BROWN-HEADED COWBIRD Molothrus ater VO 782-783 COMMON G Quiscalus WHITE FRONTED GOOSK Anser albifrons SNOW GOOSE Ansor caerulescens ROSS' GOOSE Anser 10981 BARN OWL Tyto alba SHORT-EARED OWL Asio flammeus COMMON NIGHTHAWK Chordelles minor DOWNY WOODPECKER Picoldes pubescens JED COWBIRD rus ater 32-783 COMMON GRACKLE Quiscalus quiscula VO 860 GREAT-TAILED GRACKLE Quiscalus mexicanus SAVANNAH SPARROW Passerculus sandwichensis VO 847 GULF COAST TOAD Bufo valliceps",
+            "label_hints": [
+                "Look for an exhibit about the coastal prairies of Texas, home to many endangered species.",
+                "This display explores how agriculture and development have transformed much of the prairie landscape.",
+                "Learn about the efforts to protect and restore coastal prairie habitats, which support species like the Attwater's Prairie Chicken."
+            ],
+            "related_knowledge": "The coastal prairie of Texas is a unique and endangered ecosystem, home to species like the Attwater's Prairie Chicken. However, much of the prairie has been converted for agriculture and development, prompting efforts to restore and protect this important habitat."
+        },
+        {
+            "label_id": "hhotce-19",
+            "is_included_in_hunt": false,
+            "label_str": "Saltmeadow Cordgrass (Spartina patens) and Coastal Prairie",
+            "label_hints": [
+                "Look for an exhibit highlighting the thick clusters of Saltmeadow Cordgrass dominating the coastal prairie.",
+                "This display explores how changes in agriculture, such as replacing rice crops with corn for ethanol, have impacted migratory geese populations.",
+                "Learn about the return of Mountain Lions to east Texas, particularly the Katy Prairie area west of Houston."
+            ],
+            "related_knowledge": "Saltmeadow Cordgrass (Spartina patens) dominates grasslands closer to the coast. Migratory geese populations have diminished as rice crops are replaced with corn, and Mountain Lions have made a return to the Katy Prairie. The Coastal Prairie is home to numerous threatened and endangered species."
+        },
+        {
+            "label_id": "hhotce-20",
+            "is_included_in_hunt": false,
+            "label_str": "Coastal Prairie: Fauna",
+            "label_hints": [
+                "Find an exhibit showcasing the diverse wildlife of the coastal prairie, including the Attwater's Prairie Chicken.",
+                "This display explores the challenges facing endangered species in the prairie habitat.",
+                "Learn about common prairie species such as the Striped Skunk, American Bison, and White-tailed Hawk."
+            ],
+            "related_knowledge": "The coastal prairie of Texas supports a wide variety of fauna, including the endangered Attwater's Prairie Chicken. Other species found here include Striped Skunks, Black Vultures, Mountain Lions, Feral Hogs, American Bison, and White-tailed Hawks. Efforts to conserve and protect these species are ongoing."
+        },
+        {
+            "label_id": "hhotce-21",
+            "is_included_in_hunt": false,
+            "label_str": "Ground Nesters and Shrub Nesters: Colonial Waterbirds",
+            "label_hints": [
+                "Look for an exhibit about the nesting habits of colonial waterbirds along the Texas coast.",
+                "This display explains the difference between ground nesters like the Black Skimmer and shrub nesters like herons and egrets.",
+                "Learn about conservation efforts to protect waterbird nesting sites and their role in the ecosystem."
+            ],
+            "related_knowledge": "Colonial waterbirds along the Texas coast use different nesting strategies. Ground nesters, such as terns and the Black Skimmer, lay their eggs in shallow sand depressions, while shrub nesters, like herons and egrets, build nests in low vegetation or trees to protect their young from predators."
+        },
+        {
+            "label_id": "hhotce-22",
+            "is_included_in_hunt": false,
+            "label_str": "Texas Colonial Waterbird Survey",
+            "label_hints": [
+                "Look for an exhibit about the annual Texas Colonial Waterbird Survey, which monitors waterbird populations.",
+                "This display explains the role of the National Audubon Society in raising awareness and protecting waterbirds along the Texas coast.",
+                "Learn how volunteers contribute to the conservation of waterbirds by monitoring population trends and nesting sites."
+            ],
+            "related_knowledge": "The Texas Colonial Waterbird Survey is an annual effort to monitor the abundance of waterbirds along the Texas coast. The National Audubon Society has played a key role in protecting these birds, especially since the early 1900s when waterbirds were hunted for their feathers. Conservation efforts continue to protect nesting sites and ensure the survival of these species."
+        },
+        {
+            "label_id": "hhotce-23",
+            "is_included_in_hunt": false,
+            "label_str": "What is an Estuary?",
+            "label_hints": [
+                "Find an exhibit explaining what an estuary is and why it's important for coastal ecosystems.",
+                "This display explores how estuaries are formed by the mixing of freshwater from rivers and saltwater from the ocean.",
+                "Learn about the biodiversity that thrives in estuaries along the Texas coast."
+            ],
+            "related_knowledge": "An estuary is a partially enclosed coastal body of water where freshwater from rivers and streams mixes with saltwater from the ocean. Estuaries are rich ecosystems that support a wide variety of species and provide important services like water filtration, shoreline stabilization, and habitat for marine life."
+        },
+        {
+            "label_id": "hhotce-24",
+            "is_included_in_hunt": false,
+            "label_str": "MIDDLE COAST Roseate spoonbill Platalea ajaja",
+            "label_hints": [
+                "Look for an exhibit featuring the Roseate Spoonbill, a striking pink wetland bird found on the middle Texas coast.",
+                "This display explores the habitat preferences and feeding behavior of Roseate Spoonbills.",
+                "Learn how conservation efforts help protect Roseate Spoonbill populations along the Texas coast."
+            ],
+            "related_knowledge": "The Roseate Spoonbill is a vibrant pink wetland bird that thrives along the middle Texas coast. These birds use their distinctive spoon-shaped bills to feed in shallow waters, sifting through mud and water for small invertebrates. Conservation efforts focus on protecting their habitats, such as salt marshes and estuaries."
+        },
+        {
+            "label_id": "hhotce-25",
+            "is_included_in_hunt": false,
+            "label_str": "Brown Pelican: A Conservation Success Story",
+            "label_hints": [
+                "Look for an exhibit about the successful conservation story of the American Brown Pelican.",
+                "This display explains how the Brown Pelican population recovered after the ban on DDT in the 1970s.",
+                "Learn how legal protection and habitat restoration have helped the Brown Pelican thrive along the Texas coast."
+            ],
+            "related_knowledge": "The American Brown Pelican faced near-extinction in the mid-20th century due to pesticide use, particularly DDT, which caused thin eggshells. Following the ban on DDT in 1972, the Brown Pelican population rebounded, making it a symbol of successful conservation efforts. The species was removed from the endangered species list in 1985 in the southeastern U.S."
+        },
+        {
+            "label_id": "hhotce-26",
+            "is_included_in_hunt": false,
+            "label_str": "Count of Breeding Pairs in Texas Brown Pelican Colonies",
+            "label_hints": [
+                "Look for an exhibit tracking the changes in Texas Brown Pelican colonies between 1973 and 2011.",
+                "This display provides a count of breeding pairs in various colonies across the state.",
+                "Learn about the resurgence of Brown Pelicans along the Texas coast after years of decline due to pesticide use."
+            ],
+            "related_knowledge": "The population of Texas Brown Pelicans has fluctuated over the years, with significant recovery efforts taking place after the ban of DDT in 1972. The count of breeding pairs varies by region, with some colonies supporting over 1000 pairs."
+        },
+        {
+            "label_id": "hhotce-27",
+            "is_included_in_hunt": false,
+            "label_str": "Middle Texas Coast: Key Habitats and Features",
+            "label_hints": [
+                "Find an exhibit exploring the habitats of the middle Texas coast, focusing on its major bay systems.",
+                "This display covers the unique geography of Matagorda Peninsula, Matagorda Island, and San Jose Island.",
+                "Learn about the Aransas National Wildlife Refuge, home to endangered Whooping Cranes."
+            ],
+            "related_knowledge": "The middle Texas coast is known for its estuarine systems such as Matagorda, San Antonio, and Copano Bays. It is also home to the federally protected Aransas National Wildlife Refuge, which provides critical habitat for the endangered Whooping Crane."
+        },
+        {
+            "label_id": "hhotce-28",
+            "is_included_in_hunt": false,
+            "label_str": "Outer Gulf Coast: Sandy Beaches and Dune Systems",
+            "label_hints": [
+                "Look for an exhibit on the anatomy of sandy beaches along the Texas coastline.",
+                "This display explains the role of sand dunes in protecting the coast from storm surges.",
+                "Learn about the diverse flora and fauna that inhabit the sandy beach and dune ecosystems."
+            ],
+            "related_knowledge": "Sandy beaches are a dominant habitat along the Texas Gulf Coast, with sand dunes playing a key role in protecting barrier islands and the mainland. Unique beaches such as Padre Island National Seashore feature special shell accumulations and a variety of coastal species."
+        },
+        {
+            "label_id": "hhotce-29",
+            "is_included_in_hunt": false,
+            "label_str": "Understanding the Tides: Coastal Dynamics",
+            "label_hints": [
+                "Find an exhibit explaining the tidal zones along the Texas coast and how they affect beach ecosystems.",
+                "This display describes the different shoreline zones, including subtidal, intertidal, and supratidal areas.",
+                "Learn how the gravitational forces of the Moon and Sun, along with weather events, shape coastal habitats."
+            ],
+            "related_knowledge": "Tides play a crucial role in shaping the coastal environment, influencing where different species live along the shoreline. Subtidal zones are always underwater, while intertidal zones are submerged at high tide and exposed at low tide. Supratidal zones are rarely submerged but may experience splash or spray."
+        },
+        {
+            "label_id": "hhotce-31",
+            "is_included_in_hunt": false,
+            "label_str": "American Brown Pelican Pelecanus occidentalis American Brown Pelican: A Conservation & Restoration Success Story (From Audubon Texas website) Through the early 1900s, shooting for the millinery trade and to protect fishing caused a major decline in the Brown Pelican population. Legal protection began in 1903 when Pelican Island, Florida, was set aside as a federal preserve. Despite this, and despite the birds' longevity and popularity, Brown Pelicans nearly disappeared from North America between the 1950s and the 1970s as a result of pesticide use. The pesticide endrin killed pelicans outright, and DDT caused thin-shelled eggs that broke under the weight of incubating parents. By 1970, most North American populations, with the exception of a few in Florida, were gone, and the species was placed on the Federal Endangered Species List. DDT use was banned in the United States in 1972, and populations have rebounded since that time. Their growing abundance in the U.S. since the banning of DDT represents a conservation success story. The total U.S. population size now exceeds historical levels, the number of breeding pairs in most states is stable, and Audubon Christmas Bird Counts and USGS North American Breeding Bird Survey data show increases. The birds were removed from the Endangered Species List in the southeastern United States in 1985; however, endangered status has been retained throughout the remainder of its range.",
+            "label_hints": [
+                "Find an exhibit about the recovery of the American Brown Pelican after its near-extinction in the 20th century.",
+                "This display explains how legal protections and the banning of DDT led to the species' resurgence.",
+                "Learn about the continued monitoring of Brown Pelican populations along the Texas coast."
+            ],
+            "related_knowledge": "The American Brown Pelican experienced a dramatic population decline due to pesticide use, especially DDT. After DDT was banned in 1972, pelican populations began to recover. The species was removed from the endangered list in the southeastern U.S. in 1985, and today it is considered a conservation success story."
+        },
+        {
+            "label_id": "hhotce-32",
+            "is_included_in_hunt": false,
+            "label_str": "Freshwater Inflows A Critical Need for Texas Coastal Bays and Estuaries When the fresh water of rivers flows into coastal bays and estuaries this is known as freshwater inflow, and it is a critical element of estuarine health. Unfortunately, due to expanding human populations and increases in urban, agricultural, and industrial needs, there is less water available for the environment. Texas has only one natural lake, Caddo Lake in East Texas, but it has over 50 water reservoirs built to meet the needs of the expanding population. Within the upper coast, where there is plentiful rainfall and freshwater inflow, estuaries are doing well. In the middle coast, where there is not much human population, several issues have arisen, but overall the estuaries are doing well. In the Corpus Christi area, however, where the Nueces River provides little freshwater inflow anymore, due to water-capture in two large reservoirs, the estuary is showing signs of stress and health failure.",
+            "label_hints": [
+                "Look for an exhibit explaining the importance of freshwater inflows to Texas estuaries and coastal bays.",
+                "This display explores how human activity and water reservoirs affect the health of estuarine ecosystems.",
+                "Learn about the challenges faced by estuaries, such as the stressed Corpus Christi estuary due to limited inflow from the Nueces River."
+            ],
+            "related_knowledge": "Freshwater inflows from rivers are essential to maintaining the health of Texas estuaries. However, expanding urban, agricultural, and industrial water demands have reduced the amount of freshwater available for the environment. The Corpus Christi estuary is an example of an area under stress due to limited freshwater inflows."
+        }
+    ]
+}

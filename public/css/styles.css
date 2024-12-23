@@ -1,0 +1,249 @@
+/* Root Variables for Color Palette */
+:root {
+    --primary-color: #1CB0F6; /* Bright Cyan */
+    --secondary-color: #FF9900; /* Warm Orange */
+    --accent-color: #C4A8E3; /* Soft Lavender */
+    --neutral-color: #F4F2ED; /* Light Beige */
+    --highlight-color: #8BC34A; /* Lime Green */
+    --dark-accent: #2D2D2D; /* Deep Navy */
+}
+
+/* Basic reset and styling */
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: 'Fredoka';
+    background-color: var(--neutral-color);
+    color: var(--dark-accent);
+}
+
+h1, h2 {
+    font-weight: 540;
+    color: var(--primary-color);
+    font-size: 36px;
+}
+
+p {
+    font-weight: 300;
+    color: var(--dark-accent);
+    font-size: 18px;
+}
+
+.try-now-button {
+    background-color: var(--secondary-color);
+    color: #fff;
+    font-size: 18px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    font-family: 'Fredoka';
+    font-weight: 300;
+}
+
+.try-now-button:hover {
+    background-color: var(--highlight-color);
+}
+
+/* Stepper Styling */
+.stepper-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 20px;
+    margin-top: 20px;
+    flex-wrap: wrap;
+}
+
+.step {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    max-width: 150px;
+    margin: 10px;
+}
+
+.step .icon {
+    background-color: var(--accent-color);
+    border-radius: 50%;
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 60px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.step img {
+    width: 100%;
+    height: auto;
+}
+
+.step h3 {
+    margin: 10px 0;
+    font-size: 20px;
+    color: var(--neutral-color);
+}
+
+.step p {
+    font-size: 14px;
+    color: var(--dark-accent);
+}
+
+.arrow {
+    font-size: 24px;
+    color: var(--primary-color);
+}
+
+/* Banner Styling */
+.banner {
+    background-color: var(--primary-color);
+    color: #fff;
+    text-align: center;
+    padding: 50px 20px;
+    transition: padding 0.3s ease;
+}
+
+.banner-content {
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.banner h1 {
+    color: var(--neutral-color);
+    font-size: 48px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.banner h2 {
+    color: var(--neutral-color);
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.banner p {
+    color: var(--neutral-color);
+    font-size: 18px;
+}
+
+/* Main content styling with alternating rows */
+.content {
+    padding: 40px 10%;
+}
+
+.row {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 0;
+    gap: 20px;
+}
+
+.row .text-box, .row .image-box {
+    flex: 1;
+    text-align: center;
+    padding: 0 10px;
+}
+
+.row .image-box img {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Alternate layout for larger screens */
+@media (min-width: 768px) {
+    .row {
+        flex-direction: row;
+    }
+
+    .row.alternate-left {
+        flex-direction: row; /* Text on the left, image on the right */
+    }
+
+    .row.alternate-right {
+        flex-direction: row-reverse; /* Image on the left, text on the right */
+    }
+}
+
+/* Footer styling */
+footer {
+    background-color: var(--primary-color);
+    color: var(--neutral-color);
+    padding: 20px;
+    text-align: center;
+}
+
+.footer-links {
+    margin-bottom: 10px;
+}
+
+.footer-links a {
+    color: var(--neutral-color);
+    margin: 0 10px;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.footer-links a:hover {
+    color: var(--primary-color);
+}
+
+.social-media a {
+    margin: 0 5px;
+}
+
+.social-media img {
+    width: 24px;
+    height: 24px;
+}
+
+/* Mobile adjustments */
+@media (max-width: 768px) {
+    .stepper-container {
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    .step {
+        max-width: none;
+    }
+
+    .arrow {
+        display: none; /* Hide arrows on mobile for a cleaner look */
+    }
+
+    h1, h2 {
+        font-size: 28px;
+    }
+
+    .banner h1 {
+        font-size: 36px;
+    }
+
+    .banner p {
+        font-size: 16px;
+    }
+
+    .try-now-button {
+        font-size: 16px;
+        margin-top: 20px;
+    }
+
+    .banner {
+        padding: 50px 20px;
+    }
+}
+
+/* Style for the highlighted text */
+.highlight {
+    color: var(--secondary-color); /* Use a different color, like orange */
+    font-size: 1.3em; /* Adjust the size relative to the surrounding text */
+    font-weight: 700; /* Optionally make it bold for emphasis */
+}

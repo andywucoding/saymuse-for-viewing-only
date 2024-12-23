@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongo": "^0.1.0",
+    "openai": "^4.68.3"
+  },
+  "name": "saymuse",
+  "version": "1.0.0",
+  "description": "This project is a JavaScript-based solution designed to enhance museum tours with a fun and interactive treasure hunt experience. Users can explore exhibitions, complete challenges, and earn badges while learning about museum exhibits. The project uses OCR (Optical Character Recognition) to identify and verify exhibit labels.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
